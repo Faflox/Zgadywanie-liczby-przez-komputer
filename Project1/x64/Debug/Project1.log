@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+F:\Microsoft Visual Studio\Projekty\Project1\Project1\Źródło.cpp(14,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Project1.vcxproj -> F:\Microsoft Visual Studio\Projekty\Project1\x64\Debug\Project1.exe
